@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: black;
+}
+
+h1
+{
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+
+}
